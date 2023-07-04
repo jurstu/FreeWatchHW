@@ -29,4 +29,4 @@ which is a list of features a second board aims to implement.
 
 Since this is a open-source project it will be created in Ki-Cad. 
 
-Reasoning and elements are presented in [a relative link](PARTS.md)
+Reasoning and elements are presented in [PARTS.md](PARTS.md)
