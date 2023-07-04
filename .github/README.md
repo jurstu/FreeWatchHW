@@ -21,9 +21,12 @@ For a demanding user it lacks a few features, such as:
 - [ ] GPS module
 - [ ] side buttons
 - [ ] SD card 
-- [ ] RTC powered when rpi is off 
+- [ ] RTC for powered when rpi is off 
 - [ ] magnetometer/compass
+- [ ] bluetooth/wifi module (?)
 
 which is a list of features a second board aims to implement.
 
 Since this is a open-source project it will be created in Ki-Cad. 
+
+Reasoning and elements are presented in [a relative link](PARTS.md)
