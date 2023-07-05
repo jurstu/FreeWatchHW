@@ -12,6 +12,7 @@ selected rpi2040 board only shares 6 free pins, which suggests to use I<sup>2</s
 | pulseoximeter         | MAX30102    | 0xAE
 | RTC                   | DS3231      | 0x68
 | GPIO expander         | MCP23009    | 0x20 - 0x27
+| Gesture/light sensor  | APDS-9960   | 0x39
 | magnetometer/compass  | idk yet     | idk yet
 
 
