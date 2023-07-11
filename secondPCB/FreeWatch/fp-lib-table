@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "APDS-9960")(type "KiCad")(uri "${KIPRJMOD}/APDS-9960")(options "")(descr ""))
+)
