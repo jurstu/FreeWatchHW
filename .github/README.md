@@ -15,6 +15,13 @@ This repository contains hardware created for Free Watch project based on Wavesh
 <img src="assets/board2.png" width=49% />
 </a>
 
+<a href="https://www.waveshare.com/RP2040-Touch-LCD-1.28.htm">product page</a>
+
+<a href="https://www.waveshare.com/wiki/RP2040-Touch-LCD-1.28">wiki</a>
+
+<a href="https://www.waveshare.com/w/upload/3/3c/RP2040-Touch-LCD-1.28.pdf">schematic</a>
+
+
 
 For a demanding user it lacks a few features, such as:
 - [ ] pulsoximeter
